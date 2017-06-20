@@ -1,0 +1,11 @@
+http://onto#Lemon ; fruit, yellow, acid
+http://onto#Banana ; fruit, monkey
+http://onto#London ; city, UK
+http://onto#Apple ; computer, fruit
+http://onto#Ferrari  ; red, car, italy
+http://onto#God ; Allah, HaShem, Brahma
+http://onto#Blood ; red, life, murder
+http://onto#Armstrong ; shuttle, walk, space, moon
+http://onto#Hulk ; green, hero, angry
+http://onto#Salmon ; fish, canada, bear 
+

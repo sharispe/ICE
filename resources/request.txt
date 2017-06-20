@@ -1,0 +1,43 @@
+http://onto#Lemon ; fruit, yellow, acid
+http://onto#Banana ; fruit, monkey, yellow
+http://onto#London ; city, UK, capital
+http://onto#Apple ; computer, fruit, juice
+http://onto#Ferrari  ; red, car, italy
+http://onto#God ; Allah, HaShem, Brahma
+http://onto#Blood ; red, life, murder
+http://onto#Armstrong ; walk, space, moon
+http://onto#Hulk ; green, hero, angry
+http://onto#Salmon ; fish, canada, bear 
+http://onto#Sun ; star, burning, sky, yellow, hot, tanned
+http://onto#Fire ; hot, burning, red, lighter, element
+http://onto#Hair ; ponytail, head, curly, cut, brush  
+http://onto#Water ; liquid, blue, drink, refreshing, swim
+http://onto#Pencil  ; 	write, notebook, pen
+http://onto#Dog ; 	pet, cat, bark
+http://onto#Dress ; 	girl, wear, clothes
+http://onto#Pizza ; 	food, italy, round, tomato
+http://onto#School ; 	place, study, teacher
+http://onto#Banana ; 	yellow, fruit, monkeys
+http://onto#Carrot ; 	vegetable, orange, rabbits
+http://onto#Bus ; 	transport, wheels, people
+http://onto#Summer ; 	hot, beach, ice-cream
+http://onto#Elephant ; 	animal, grey, Africa
+http://onto#Phone ; 	talk, friend, object
+http://onto#Bedroom ; 	sleep, room, house
+http://onto#Key ; 	sleep, room, house
+http://onto#Window ; 	open, glass, room
+http://onto#Chair ; 	sit, dinning room, wood
+http://onto#June ; 	month, sixth, summer
+http://onto#Teacher ; 	school, class, teach
+http://onto#Computer ; 	mouse, internet, email
+http://onto#Mouth ; 	speak, body, face
+http://onto#Blue ; 	colour, sky, eyes
+http://onto#Ball ; 	round, play, sport
+http://onto#Brother ; 	family, sister, boy
+http://onto#Methane ; 	gas, poo, energy, pig
+http://onto#Rachmaninoff ; romantic, russian, etudes-tableaux, piano, composed
+http://onto#Obama ; 	president, united_states, black
+
+
+
+
